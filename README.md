@@ -5,5 +5,5 @@ Created in Jupyter notebook
 Python
 
 ## Infographic:
-
+![](infographicHanvey.jpg)
 
